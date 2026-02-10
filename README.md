@@ -5,7 +5,7 @@ Welcome!! I am **Yuqian (Nikki)**, a professional dedicated to **Strategic Imple
 
 ## Core Competencies
 * **Strategic Roadmap Design:** Converting high-level vision into tactical, phased execution plans.
-* **Process Optimization:** Utilizing MECE and Lean principles to eliminate operational bottlenecks.
+* **Process Optimisation:** Utilising MECE and Lean principles to eliminate operational bottlenecks.
 * **Data-Driven Consulting:** Leveraging Python & SQL to extract commercial insights (e.g., Quantium Framework).
 * **Change Management:** Aligning stakeholders and managing the end-to-end project lifecycle (from planning to go-live).
 
