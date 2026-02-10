@@ -1,4 +1,4 @@
-# Quantium Virtual Internship - Data Analytics Simulation (R)
+# Quantium - Data Analytics Job Simulation (R)
 
 This project is a high-fidelity simulation of a retail consulting engagement. Acting as a Data Analyst, I used **RStudio** to deliver actionable business insights for a major supermarket client, bridging the gap between raw transactional data and strategic decision-making.
 
